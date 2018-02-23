@@ -1,4 +1,4 @@
-# Autonomous-Line-following-Robot-
+# Autonomous-Line-following-Robot
 Using Arduino Uno, a 3 wheel line following robot was developed.
 The robot performed the following tasks:
 Follow black tape using infrared sensors.
